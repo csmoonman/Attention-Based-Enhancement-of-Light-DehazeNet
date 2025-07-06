@@ -18,14 +18,12 @@ This project successfully replicates the original architecture and introduces a 
 
 ## Performance
 
-![Dehazed Result Example](result_image.jpg)
-
 - **Peak Signal-to-Noise Ratio (PSNR):** **+1.0 dB**
 - **Structural Similarity (SSIM):** **+0.052**
 
 ### Visual Results
 
-Here is a comparison of the results on a sample image from the dataset.
+![Dehazed Result Example](result_image.jpg)
 
 ## Setup and Installation
 
