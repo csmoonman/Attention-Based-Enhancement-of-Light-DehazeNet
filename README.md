@@ -18,7 +18,7 @@ This project successfully replicates the original architecture and introduces a 
 
 ## Performance
 
-The enhanced model demonstrates significant improvements over the original baseline on the benchmark dataset.
+![Dehazed Result Example](result_image.jpg)
 
 - **Peak Signal-to-Noise Ratio (PSNR):** **+1.0 dB**
 - **Structural Similarity (SSIM):** **+0.052**
