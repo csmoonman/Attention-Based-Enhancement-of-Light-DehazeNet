@@ -23,7 +23,7 @@ This project successfully replicates the original architecture and introduces a 
 
 ### Visual Results
 
-![Dehazed Result Example](result_image.jpg)
+![Dehazed Result Example](result_image.png)
 
 ## Setup and Installation
 
