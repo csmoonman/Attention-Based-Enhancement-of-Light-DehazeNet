@@ -6,7 +6,7 @@ Re-implemented Light-DehazeNet (TIP 2021) and integrated a CBAM attention mechan
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.8+](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/get-started/locally/)
 
-This repository contains a PyTorch implementation of an enhanced **Light-DehazeNet**, based on the original paper: ["Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing" (TIP 2021)](https://ieeexplore.ieee.org/document/9372114).
+This repository contains a PyTorch implementation of an enhanced **Light-DehazeNet**, based on the original paper: ["Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing" (TIP 2021)](https://ieeexplore.ieee.org/abstract/document/9562276).
 
 This project successfully replicates the original architecture and introduces a significant enhancement by integrating the **Convolutional Block Attention Module (CBAM)**. This addition allows the network to adaptively focus on critical haze-relevant features, leading to superior dehazing performance in terms of both quantitative metrics and visual quality.
 
@@ -31,7 +31,7 @@ Here is a comparison of the results on a sample image from the dataset.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/csmoonman/Attention-Based-Enhancement-of-Light-DehazeNet
     cd your-repo-name
     ```
 
