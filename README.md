@@ -32,7 +32,7 @@ Here is a comparison of the results on a sample image from the dataset.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/csmoonman/Attention-Based-Enhancement-of-Light-DehazeNet
-    cd your-repo-name
+    cd Attention-Based-Enhancement-of-Light-DehazeNet
     ```
 
 2.  **Create a virtual environment (recommended):**
